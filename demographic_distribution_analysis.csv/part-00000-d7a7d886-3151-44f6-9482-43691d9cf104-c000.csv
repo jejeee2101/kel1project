@@ -1,0 +1,340 @@
+age_group;gender;cause;death_count
+adult;Male;Bencana kelaparan;1
+adult;Female;Tsunami;1
+adult;Male;Angin Topan / Angin Puting Beliung / Angin Puyuh;2
+adult;Female;Keracunan/KLB;1
+adult;Female;Stroke tidak menyebut pendarahan atau infark;2
+adult;Male;Gangguan Mental & Perilaku;2
+adult;Female;Septisemia;1
+adult;Female;KLB Campak;5
+adult;Male;Longsor Sampah;1
+adult;Male;AIDS;23
+adult;Male;Rabies - Lyssa;19
+adult;Female;Gagal Teknologi;1
+adult;Male;Kejadian Luar Biasa (KLB) - Keracunan;2
+adult;Female;Penyakit Telinga dan Pros. Mastoideus;3
+adult;Male;Gempa Bumi dan Tsunami;1
+adult;Female;Difteri;5
+adult;Male;Septisemia;2
+adult;Female;Kegagalan Teknologi;3
+adult;Male;TB Paru BTA Positif;1
+adult;Female;Cedera intrakranial;3
+adult;Male;KLB Campak;6
+adult;Female;Gejala, Tanda & Penemuan Laboratorium, Klinik Abnormal YTK;1
+adult;Male;Neoplasma;2
+adult;Male;Demam Berdarah Dengue (DBD);8
+adult;Male;KLB Diare;18
+adult;Female;Angin Topan;1
+adult;Male;Stroke tidak menyebut pendarahan atau infark;1
+adult;Female;Banjir;5
+adult;Female;KLB Cikungunya;1
+adult;Female;KLB Disentri;1
+adult;Male;Penyakit Apendiks;1
+adult;Female;Penyakit Sistem Kemih Kelamin;2
+adult;Male;Penyakit Sistem Napas;1
+adult;Female;Tuberkulosis paru;1
+adult;Female;Wabah Penyakit (Epidemi);1
+adult;Female;Gelombang Pasang;1
+adult;Male;Hepatitis B;1
+adult;Male;Kebakaran;5
+adult;Male;KLB Thypoid;1
+adult;Female;Penyakit Endokrin, Nutrisi, dan Metabolik;1
+adult;Male;Sebab Luar Morbiditas & Mortalitas;4
+adult;Female;Perdarahan pasca persalinan;2
+adult;Female;Penyakit Mata dan Adneksa;2
+adult;Male;Tetanus;3
+adult;Male;Eklamsia dan preeklamsia;1
+adult;Female;Faktor yg Mempengaruhi Keadaan Kesehatan & yg Berhubungan dengan Pelayanan Kesehatan;1
+adult;Female;Kecelakaan kerja;1
+adult;Female;Pneumonia;1
+adult;Female;Diare & gastroenteritis Oleh penyebab infeksi tertentu (kolitis infeksi);1
+adult;Male;Konflik;1
+adult;Male;Banjir Bandang;4
+adult;Female;Cikungunya;1
+adult;Male;Kecelakaan Transportasi;4
+adult;Female;Gangguan Mental & Perilaku;1
+adult;Female;Penyakit Susunan Syaraf;2
+adult;Female;Ledakan Granat/Bom;1
+adult;Male;Gagal ginjal lainnya;1
+adult;Female;Penyakit Sistem Napas;2
+adult;Male;Kolera;1
+adult;Male;Tanah Longsor;3
+adult;Female;Eklamsia dan preeklamsia;1
+adult;Female;Konflik Sosial atau Kerusuhan Sosial;3
+adult;Female;Diabetes melitus YTT;1
+adult;Female;Kebakaran Hutan dan Lahan;2
+adult;Male;Wabah Penyakit (Epidemi);2
+adult;Male;KLB Demam Berdarah;1
+adult;Male;Kecelakaan Transportasi Laut-Udara;1
+adult;Male;Penyakit Sistem Sirkulasi Darah;1
+adult;Female;Banjir dan Tanah Longsor;4
+adult;Female;Tuberkulosis paru lainnya;1
+adult;Female;Penyakit Sistem Cerna;1
+adult;Male;Gejala, Tanda & Penemuan Laboratorium, Klinik Abnormal YTK;2
+adult;Male;Penyakit Mata dan Adneksa;1
+adult;Male;Kecelakaan Transportasi Darat;1
+adult;Male;Tetanus Neonatorium;11
+adult;Male;Gempa Bumi;4
+adult;Female;Hipertensi Esensial (Primer);1
+adult;Male;Gagal Teknologi;4
+adult;Female;KLB Rubella;1
+adult;Male;Penyakit Infeksi & Parasit Tertentu;2
+adult;Male;Kebakaran (Pemukiman);1
+adult;Female;Kecelakaan Industri;6
+adult;Female;Kecelakaan Transportasi Laut-Udara;1
+adult;Female;Gempa Bumi;4
+adult;Female;KLB Tetanus Neonatal;1
+adult;Male;Penyakit Kulit & Jaringan Subkutan;1
+adult;Female;Ledakan Bom;1
+adult;Male;KLB Cacat Air;1
+adult;Male;KLB Antraks;1
+adult;Female;KLB Polio;1
+adult;Female;Penyakit Sistem Muskuloskeletal dan Jaringan Ikat;1
+adult;Female;Kecelakaan Transportasi;1
+adult;Female;KLB Hepatitis Klinis;1
+adult;Male;Hipertensi Esensial (Primer);1
+adult;Female;Kebakaran;1
+adult;Female;Keracunan;1
+adult;Male;Hepatitis Klinis;1
+adult;Male;Konflik Sosial atau Kerusuhan Sosial;1
+adult;Male;Diare & gastroenteritis Oleh penyebab infeksi tertentu (kolitis infeksi);1
+adult;Female;Kekeringan;1
+adult;Male;Pneumonia;2
+adult;Female;Rabies - Lyssa;14
+adult;Female;Tsunami Aceh (Meninggal);1
+adult;Female;Campak;2
+adult;Male;Angin Puting Beliung;3
+adult;Male;Gelombang Pasang;1
+adult;Female;Penyakit Darah & Organ Pembuat Darah & Gangguan tertentu yang Melibatkan Mekanisme Imun;2
+adult;Male;KLB Tetanus;1
+adult;Male;KLB;1
+adult;Male;KLB Dengue Shock Syndrome;1
+adult;Male;Aksi Teror dan Sabotase;3
+adult;Female;Kejadian Luar Biasa (KLB) - Penyakit;4
+adult;Male;Letusan Gunung Api;5
+adult;Male;Gelombang Pasang/Badai;2
+adult;Male;Penyakit Sistem Muskuloskeletal dan Jaringan Ikat;1
+adult;Female;Banjir Bandang dan Angin Siklon Tropis;1
+adult;Male;KLB Parotitis;1
+adult;Male;KLB Malaria;1
+adult;Female;Kronis Filariasis;1
+adult;Male;Diabetes melitus YTT;2
+adult;Male;Difteri;6
+adult;Female;Avian Influenza (Flu Burung);36
+adult;Female;Perdarahan intrakranial;1
+adult;Female;Cedera, Keracunan, dan Akibat Sebab Luar Tertentu Lainnya;2
+adult;Female;KLB Gizi Buruk;1
+adult;Male;KLB Pertusis;1
+adult;Female;Antraks;24
+adult;Female;Tetanus Neonatorium;9
+adult;Male;Angin siklon tropis (angin kencang dan angin puting beliung);1
+adult;Female;Banjir disertai Tanah Longsor;1
+adult;Male;Banjir Lahar Dingin;2
+adult;Male;Malaria Klinis;1
+adult;Male;Campak;4
+adult;Male;COVID-19;1
+adult;Female;AIDS;20
+adult;Female;Cedera YDT lainnya YTT dan daerah badan Multipel;2
+adult;Female;Leptospirosis;19
+adult;Male;Infeksi Saluran Napas Bagian Atas Akut Lainnya;2
+adult;Male;Angin kencang;1
+adult;Male;Dispepsia;2
+adult;Male;Penyakit Sistem Kemih Kelamin;1
+adult;Female;COVID-19;1
+adult;Female;Gelombang Pasang/Badai;3
+adult;Male;KLB Malaria Klinis;1
+adult;Male;Cedera, Keracunan, dan Akibat Sebab Luar Tertentu Lainnya;1
+adult;Female;Banjir Bandang;5
+adult;Female;KLB Diare;19
+adult;Male;Penyakit Endokrin, Nutrisi, dan Metabolik;1
+adult;Male;Tsunami;1
+adult;Male;Penyakit Susunan Syaraf;1
+adult;Male;Diare;1
+adult;Male;Penyakit Darah & Organ Pembuat Darah & Gangguan tertentu yang Melibatkan Mekanisme Imun;1
+adult;Female;Tuberkulosis;2
+adult;Male;Antraks;26
+adult;Female;Angin Puting Beliung;1
+adult;Male;Keracunan Makanan;2
+adult;Male;KLB Diare Berdarah;1
+adult;Female;Diare;3
+adult;Male;Leptospirosis;29
+adult;Male;Penyakit Sistem Cerna;3
+adult;Female;Penyakit Kulit & Jaringan Subkutan;1
+adult;Female;Demam Berdarah Dengue (DBD);8
+adult;Male;Kebakaran Hutan dan Lahan;2
+adult;Male;KLB Leptospirosis;1
+adult;Male;Banjir dan Tanah Longsor;3
+adult;Male;Kejadian Luar Biasa (KLB) - Penyakit;2
+adult;Female;Tanah Longsor;7
+adult;Male;Penyakit Telinga dan Pros. Mastoideus;1
+adult;Female;Penyakit Sistem Sirkulasi Darah;2
+adult;Female;KLB;1
+adult;Male;Banjir;4
+adult;Male;KLB Keracunan Makanan;2
+adult;Female;Neoplasma;1
+adult;Female;Hepatitis Klinis;1
+adult;Male;Angin Siklon Tropis;1
+adult;Male;Konflik Sosial;2
+adult;Male;Avian Influenza (Flu Burung);32
+adult;Male;Kekeringan;2
+adult;Female;Penyakit Infeksi & Parasit Tertentu;2
+senior;Female;KLB Frambusia;1
+senior;Male;Abrasi Air Laut;1
+senior;Male;Banjir disertai Tanah Longsor;2
+senior;Female;KLB Typus Perut;1
+senior;Female;Tsunami;2
+senior;Female;Banjir Bandang;5
+senior;Female;Penyakit Sistem Kemih Kelamin;1
+senior;Male;Antraks;8
+senior;Female;Kekeringan;1
+senior;Female;Ledakan (bom, tabung gas, dll);1
+senior;Female;Batuk Rejan;1
+senior;Female;Cedera intrakranial;1
+senior;Female;Kejadian Luar Biasa (KLB) - Penyakit;1
+senior;Male;KLB Diare;18
+senior;Male;Aksi Teror dan Sabotase;3
+senior;Female;Penyakit Kulit & Jaringan Subkutan;2
+senior;Female;Hepatitis B;1
+senior;Female;Kecelakaan Transportasi Darat;1
+senior;Female;Penyakit Sistem Sirkulasi Darah;3
+senior;Male;Pneumonia;2
+senior;Female;KLB Keracunan;1
+senior;Female;Aksi Teror dan Sabotase;1
+senior;Female;Demam yang Sebabnya Tidak Diketahui;1
+senior;Female;KLB Marasmus;1
+senior;Male;Gempa Bumi;3
+senior;Male;Kebakaran;3
+senior;Female;Konflik Sosial atau Kerusuhan Sosial;2
+senior;Male;Gelombang Besar dan Angin Siklon Tropis;1
+senior;Female;Kebakaran Hutan dan Lahan;1
+senior;Female;Diare & gastroenteritis Oleh penyebab infeksi tertentu (kolitis infeksi);3
+senior;Female;Kecelakaan Industri;4
+senior;Female;Angin Siklon Tropis;1
+senior;Female;Hepatitis Klinis;1
+senior;Female;Antraks;16
+senior;Male;Perdarahan intrakranial;1
+senior;Male;Dispepsia;1
+senior;Male;KLB Campak;2
+senior;Male;Cedera, Keracunan, dan Akibat Sebab Luar Tertentu Lainnya;1
+senior;Female;Diare;1
+senior;Female;Letusan/Peningkatan Aktivitas Gunung Api;1
+senior;Female;Demam Tifoid dan Paratifoid;2
+senior;Female;Letusan Gunung Berapi;1
+senior;Male;Demam Tifoid dan Paratifoid;2
+senior;Female;Faktor yg Mempengaruhi Keadaan Kesehatan & yg Berhubungan dengan Pelayanan Kesehatan;1
+senior;Male;Penyakit Darah & Organ Pembuat Darah & Gangguan tertentu yang Melibatkan Mekanisme Imun;1
+senior;Male;Difteri;5
+senior;Female;Kecelakaan Transportasi;3
+senior;Female;KLB Diare;9
+senior;Female;Pneumonia;3
+senior;Female;Gagal Teknologi;2
+senior;Male;KLB Cikungunya;1
+senior;Female;Tanah Longsor;4
+senior;Female;Kebakaran;2
+senior;Male;Angin Puting Beliung;1
+senior;Male;Wabah Penyakit (Epidemi);2
+senior;Male;Gizi Buruk;1
+senior;Male;Konflik Sosial atau Kerusuhan Sosial;1
+senior;Male;Faktor yg Mempengaruhi Keadaan Kesehatan & yg Berhubungan dengan Pelayanan Kesehatan;2
+senior;Male;Kecelakaan Industri;1
+senior;Female;Keracunan Makanan;2
+senior;Female;Banjir dan Tanah Longsor;1
+senior;Male;Kejadian Luar Biasa (KLB) - Keracunan;3
+senior;Female;Gelombang Pasang;2
+senior;Male;KLB Rabies;2
+senior;Male;Campak;2
+senior;Male;KLB Difteri;1
+senior;Female;Avian Influenza (Flu Burung);11
+senior;Female;KLB Difteri;1
+senior;Male;Rabies - Lyssa;8
+senior;Female;KLB Demam Berdarah Dengue (DBD);2
+senior;Female;Konflik;2
+senior;Male;Tsunami;1
+senior;Female;Infeksi Saluran Napas Bagian Atas Akut Lainnya;2
+senior;Male;Tanah Longsor;1
+senior;Female;Cedera, Keracunan, dan Akibat Sebab Luar Tertentu Lainnya;2
+senior;Male;Demam Berdarah Dengue (DBD);7
+senior;Female;KLB Campak;2
+senior;Female;Penyakit Sistem Cerna;2
+senior;Male;Kegagalan Teknologi;1
+senior;Male;Ledakan Bom;2
+senior;Female;Tuberkulosis;1
+senior;Female;Banjir Bandang dan Tanah Longsor;2
+senior;Female;Rabies;1
+senior;Male;Angin Siklon Tropis;1
+senior;Female;KLB Keracunan Makanan;1
+senior;Male;Tsunami Aceh (Hilang);1
+senior;Female;Gejala, Tanda & Penemuan Laboratorium, Klinik Abnormal YTK;3
+senior;Male;Kecelakaan Lalu Lintas;2
+senior;Female;Perdarahan intrakranial;2
+senior;Male;Penyakit Sistem Kemih Kelamin;2
+senior;Male;KLB Hand, Foot, Mouth Diseases;1
+senior;Male;Gangguan Mental & Perilaku;1
+senior;Female;Gempa Bumi;4
+senior;Female;Angin Puting Beliung;3
+senior;Male;Banjir Lahar Dingin;1
+senior;Male;Ledakan Granat/Bom;2
+senior;Male;Penyakit Mata dan Adneksa;1
+senior;Female;Perdarahan pasca persalinan;1
+senior;Female;Tetanus Neonatorium;5
+senior;Male;Gelombang Besar;1
+senior;Female;KLB Rubella;1
+senior;Male;Hepatitis A;1
+senior;Male;Kecelakaan Transportasi Darat;1
+senior;Female;Demam Berdarah Dengue (DBD);4
+senior;Male;KLB Tifus Perut;1
+senior;Male;Keracunan Makanan;3
+senior;Male;Septisemia;1
+senior;Male;Banjir dan Tanah Longsor;2
+senior;Male;Gempa Bumi dan Tsunami;2
+senior;Male;Banjir;2
+senior;Male;Diare & gastroenteritis Oleh penyebab infeksi tertentu (kolitis infeksi);1
+senior;Female;Neoplasma;2
+senior;Female;Kejadian Luar Biasa (KLB) - Keracunan;2
+senior;Male;Avian Influenza (Flu Burung);22
+senior;Female;Eklamsia dan preeklamsia;1
+senior;Male;Cedera intrakranial;2
+senior;Female;Penyakit jantung lainnya;1
+senior;Female;Petir;1
+senior;Female;Gastritis dan Duodenitis;1
+senior;Female;Hipertensi Esensial (Primer);1
+senior;Male;Malaria (termasuk semua malaria);1
+senior;Female;Penyakit Endokrin, Nutrisi, dan Metabolik;2
+senior;Female;Kecelakaan Lalu Lintas;2
+senior;Male;Penyakit Sistem Muskuloskeletal dan Jaringan Ikat;2
+senior;Female;KLB Dengue High Fever;1
+senior;Female;Gagal ginjal lainnya;2
+senior;Male;Letusan Gunung Api;3
+senior;Female;Penyakit Sistem Napas;4
+senior;Male;Penyakit Sistem Sirkulasi Darah;1
+senior;Female;Gempa Bumi dan Tsunami;3
+senior;Male;Kronis Filariasis;2
+senior;Male;Kekeringan;2
+senior;Male;KLB Meningitis;1
+senior;Female;Kegagalan Teknologi (termasuk ledakan kompor gas);1
+senior;Female;Gempa & Tsunami;1
+senior;Female;Rabies - Lyssa;13
+senior;Female;Letusan Gunung Api;1
+senior;Female;Banjir;4
+senior;Male;Kebakaran Hutan dan Lahan;1
+senior;Female;Kecelakaan kerja;1
+senior;Female;Gelombang Pasang/Badai;1
+senior;Female;Leptospirosis;14
+senior;Female;Campak;2
+senior;Male;Penyakit Endokrin, Nutrisi, dan Metabolik;2
+senior;Female;Ledakan Akibat Gas;1
+senior;Male;Rubella;1
+senior;Male;Banjir Bandang;1
+senior;Female;COVID-19;1
+senior;Female;Kecelakaan Transportasi Laut-Udara;1
+senior;Male;KLB Hepatitis;1
+senior;Female;Tersambar Petir;2
+senior;Male;Stroke tidak menyebut pendarahan atau infark;1
+senior;Male;Penyakit Susunan Syaraf;1
+senior;Female;Erupsi Gunung Api;1
+senior;Male;KLB Malaria Falsiparum;1
+senior;Male;Neoplasma;1
+senior;Female;TB Paru;1
+senior;Male;Penyakit Infeksi & Parasit Tertentu;3
+senior;Male;Batuk Rejan;1
+senior;Male;Leptospirosis;13
